@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+
+# Generated output images (keep input samples, ignore outputs)
+data/output/
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+*.pyc
